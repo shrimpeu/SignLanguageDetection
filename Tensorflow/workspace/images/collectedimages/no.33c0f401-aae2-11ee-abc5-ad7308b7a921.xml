@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.33c0f401-aae2-11ee-abc5-ad7308b7a921.jpg</filename>
+	<path>D:\Projects\Github Repo\SignLanguageDetection\Tensorflow\workspace\images\collectedimages\no.33c0f401-aae2-11ee-abc5-ad7308b7a921.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>245</ymin>
+			<xmax>451</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>
